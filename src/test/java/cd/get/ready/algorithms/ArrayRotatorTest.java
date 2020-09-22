@@ -1,6 +1,7 @@
 package cd.get.ready.algorithms;
 
 import org.junit.Assert;
+import org.junit.Test;
 
 public class ArrayRotatorTest {
 
