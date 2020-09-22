@@ -4,6 +4,7 @@ import org.junit.Assert;
 
 public class ArrayRotatorTest {
 
+    @Test
     public void testOne(){
         ArrayRotator rotator = new ArrayRotator();
         int rotateAmount = 4;
@@ -16,6 +17,7 @@ public class ArrayRotatorTest {
 
     }
 
+    @Test
     public void testTwo(){
         ArrayRotator rotator = new ArrayRotator();
         int rotateAmount = 10;
